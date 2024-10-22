@@ -1,6 +1,6 @@
 [
     {
-        "recipe_id": 1,
+        "id": 1,
         "recipe_name": "Grilled Chicken Salad",
         "recipe_image": "grilled_chicken_salad.jpg",
         "short_description": "A healthy grilled chicken salad with fresh vegetables and a light vinaigrette dressing.",
@@ -16,7 +16,7 @@
         "calories": "320 calories"
     },
     {
-        "recipe_id": 2,
+        "id": 2,
         "recipe_name": "Spaghetti Carbonara",
         "recipe_image": "spaghetti_carbonara.jpg",
         "short_description": "Classic Italian pasta dish with creamy sauce, crispy pancetta, and Parmesan cheese.",
@@ -32,7 +32,7 @@
         "calories": "450 calories"
     },
     {
-        "recipe_id": 3,
+        "id": 3,
         "recipe_name": "Vegetable Stir-Fry",
         "recipe_image": "vegetable_stir_fry.jpg",
         "short_description": "A quick and easy stir-fry with colorful vegetables and a savory sauce.",
@@ -48,7 +48,7 @@
         "calories": "150 calories"
     },
     {
-        "recipe_id": 4,
+        "id": 4,
         "recipe_name": "Beef Tacos",
         "recipe_image": "beef_tacos.jpg",
         "short_description": "Spicy beef tacos served with fresh salsa and avocado.",
@@ -64,7 +64,7 @@
         "calories": "400 calories"
     },
     {
-        "recipe_id": 5,
+        "id": 5,
         "recipe_name": "Baked Salmon",
         "recipe_image": "baked_salmon.jpg",
         "short_description": "Oven-baked salmon fillet seasoned with herbs and served with lemon wedges.",
@@ -80,7 +80,7 @@
         "calories": "350 calories"
     },
     {
-        "recipe_id": 6,
+        "id": 6,
         "recipe_name": "Chocolate Chip Cookies",
         "recipe_image": "chocolate_chip_cookies.jpg",
         "short_description": "Classic homemade chocolate chip cookies with a crispy outside and chewy inside.",
