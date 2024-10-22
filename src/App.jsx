@@ -1,12 +1,13 @@
+import Header from "./components/Header/Header"
 
 
 function App() {
   
 
   return (
-    <>
-     <h1 className="text-red-600">This is app</h1>
-    </>
+    <div className="max-w-7xl mx-auto">
+     <Header></Header>
+    </div>
   )
 }
 
