@@ -10,7 +10,7 @@ const Recipies = () => {
     },[])
     return (
         <div className='w-2/3'>
-            <div>
+            <div className='md:grid grid-cols-2'>
                 {
                     recipies.map(recipe=><Recipe recipe={recipe} key={recipe.id}></Recipe>)
                 }

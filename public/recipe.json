@@ -2,7 +2,7 @@
     {
         "id": 1,
         "recipe_name": "Grilled Chicken Salad",
-        "recipe_image": "grilled_chicken_salad.jpg",
+        "recipe_image": "https://www.crunchycreamysweet.com/wp-content/uploads/2018/07/grilled-chicken-salad-feat.jpg",
         "description": "A healthy grilled chicken salad with fresh vegetables and a light vinaigrette dressing.",
         "ingredients": [
             "550 g chicken breast",
@@ -18,7 +18,7 @@
     {
         "id": 2,
         "recipe_name": "Spaghetti Carbonara",
-        "recipe_image": "spaghetti_carbonara.jpg",
+        "recipe_image": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-square640-v2.jpg",
         "description": "Classic Italian pasta dish with creamy sauce, crispy pancetta, and Parmesan cheese.",
         "ingredients": [
             "200 g spaghetti",
@@ -34,7 +34,7 @@
     {
         "id": 3,
         "recipe_name": "Vegetable Stir-Fry",
-        "recipe_image": "vegetable_stir_fry.jpg",
+        "recipe_image": "https://www.cookingclassy.com/wp-content/uploads/2019/12/chicken-stir-fry-1.jpg",
         "description": "A quick and easy stir-fry with colorful vegetables and a savory sauce.",
         "ingredients": [
             "100 g broccoli",
@@ -50,7 +50,7 @@
     {
         "id": 4,
         "recipe_name": "Beef Tacos",
-        "recipe_image": "beef_tacos.jpg",
+        "recipe_image": "https://www.onceuponachef.com/images/2023/08/Beef-Tacos.jpg",
         "description": "Spicy beef tacos served with fresh salsa and avocado.",
         "ingredients": [
             "200 g ground beef",
@@ -66,7 +66,7 @@
     {
         "id": 5,
         "recipe_name": "Baked Salmon",
-        "recipe_image": "baked_salmon.jpg",
+        "recipe_image": "https://www.foodnetwork.com/content/dam/images/food/fullset/2011/7/26/1/CN1B01_oven-baked-salmon_s4x3.jpg",
         "description": "Oven-baked salmon fillet seasoned with herbs and served with lemon wedges.",
         "ingredients": [
             "300 g salmon fillet",
@@ -82,7 +82,7 @@
     {
         "id": 6,
         "recipe_name": "Chocolate Chip Cookies",
-        "recipe_image": "chocolate_chip_cookies.jpg",
+        "recipe_image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/62298.jpg",
         "description": "Classic homemade chocolate chip cookies with a crispy outside and chewy inside.",
         "ingredients": [
             "150 g flour",
