@@ -3,7 +3,7 @@ import Ingredients from '../Ingredients/Ingredients';
 import { CiStopwatch } from 'react-icons/ci';
 import { AiOutlineFire } from 'react-icons/ai';
 
-const Recipe = ({recipe}) => {
+const Recipe = ({recipe,handleCook}) => {
     const {id,recipe_name,recipe_image,description,ingredients,preparing_time,calories}=recipe
     return (
         <div className='w-96 h-[685] border p-4 m-4'>
@@ -28,7 +28,7 @@ const Recipe = ({recipe}) => {
                     <h1 className='text-gray-400 ml-2'>{calories}</h1>
                 </div>
             </div>
-            <button className='bg-green-400 w-40 h-12 rounded-lg mt-4'>Want to cook</button>
+            <button onClick={()=>{handleCook()}} className='bg-green-400 w-40 h-12 rounded-lg mt-4'>Want to cook</button>
             
         </div>
     );

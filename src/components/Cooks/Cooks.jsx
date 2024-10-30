@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Cooks = () => {
+const Cooks = ({cooks}) => {
     return (
         <div>
-            Want to cook
+            <h1 className='font-bold text-2xl p-4 m-4'>Want to cook: {cooks.length}</h1>
         </div>
     );
 };
