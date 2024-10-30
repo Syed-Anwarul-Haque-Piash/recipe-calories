@@ -6,7 +6,7 @@ import { AiOutlineFire } from 'react-icons/ai';
 const Recipe = ({recipe}) => {
     const {id,recipe_name,recipe_image,description,ingredients,preparing_time,calories}=recipe
     return (
-        <div>
+        <div className='w-96 h-[685] border p-4 m-4'>
             <img className='w-80 h-48 rounded-lg' src={recipe_image} alt="" />
             <h1 className='text-xl font-bold'>{recipe_name}</h1>
             <h1 className='text-gray-400'>{description}</h1>
@@ -28,6 +28,7 @@ const Recipe = ({recipe}) => {
                     <h1 className='text-gray-400 ml-2'>{calories}</h1>
                 </div>
             </div>
+            <button className='bg-green-400 w-40 h-12 rounded-lg mt-4'>Want to cook</button>
             
         </div>
     );
